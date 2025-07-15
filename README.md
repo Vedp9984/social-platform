@@ -36,15 +36,7 @@ This project implements a system using linked list data structures to manage pos
 ## Commands
 - `[command details would go here]`
 
-## Project Structure
-```
-/project
-├── main.cpp         # Main entry point with command processing logic
-├── post.h/cpp       # Post class implementation
-├── comment.h/cpp    # Comment class implementation
-├── linkedlist.h/cpp # Custom linked list implementation
-└── readme.md        # This documentation file
-```
+
 
 ## Development Notes
 - The project was implemented with a focus on memory efficiency
