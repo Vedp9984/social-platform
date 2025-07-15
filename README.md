@@ -46,5 +46,4 @@ This project implements a system using linked list data structures to manage pos
 ## Future Improvements
 - [Potential improvements could be listed here]
 
-## Author
-[Your Name]
+
