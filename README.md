@@ -27,14 +27,6 @@ This project implements a system using linked list data structures to manage pos
 - No memory leaks as verified by Valgrind
 - Careful implementation of destructors and cleanup functions
 
-## How to Use
-1. Compile the program using your C/C++ compiler
-2. Run the executable
-3. Follow the on-screen prompts to interact with the system
-4. Type "exit" to quit the program
-
-## Commands
-- `[command details would go here]`
 
 
 
@@ -43,7 +35,6 @@ This project implements a system using linked list data structures to manage pos
 - Valgrind was used to verify no memory leaks occur
 - Each data structure was designed for optimal performance and minimal memory overhead
 
-## Future Improvements
-- [Potential improvements could be listed here]
+
 
 
