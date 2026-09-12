@@ -1,4 +1,4 @@
-# Data Structures and Algorithms Assignment
+# Data Structures and Algorithms project
 
 ## Project Overview
 This project implements a system using linked list data structures to manage posts and comments. The implementation is memory leak free, verified using memory management tools like Valgrind.
